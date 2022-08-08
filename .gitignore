@@ -1,0 +1,8 @@
+.env
+.env/
+
+nodu_modules
+node_modules/
+
+uploads/productos/**.*
+uploads/usuarios/**.*
